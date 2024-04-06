@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**manzo-willis/manzo-willis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Frontend Developer originally from 🇮🇹 living in the 🇬🇧
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Senior Frontend Developer and contributing to frontend and backend for building a design system.
+- 🌱 I’m currently learning Python, Go, DevOps principles, CI/CD, configuration management, and infrastructure as code.\
+- ⚡ In my free time I play video games and bass guitar trying to record an album that I will never finish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠  Languages and Tools :
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manzo-willis&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manzo-willis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
